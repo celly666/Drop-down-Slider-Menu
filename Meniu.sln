@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meniu", "Meniu\Meniu.csproj", "{147556A4-1BFE-41FB-87C1-6FA625CE0738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147556A4-1BFE-41FB-87C1-6FA625CE0738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147556A4-1BFE-41FB-87C1-6FA625CE0738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147556A4-1BFE-41FB-87C1-6FA625CE0738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147556A4-1BFE-41FB-87C1-6FA625CE0738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F3070F-A97C-4E22-993A-79CEA5A62C51}
+	EndGlobalSection
+EndGlobal
